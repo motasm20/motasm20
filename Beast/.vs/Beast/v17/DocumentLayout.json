@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\motas\\Desktop\\school 2023-2024\\5- programeren\\p3\\Beast opdracht\\Beast\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3925398A-9D4A-40B8-A382-600E9BAAA2D5}|Beast\\Beast.csproj|c:\\users\\motas\\desktop\\school 2023-2024\\5- programeren\\p3\\beast opdracht\\beast\\beast\\classes\\dbhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925398A-9D4A-40B8-A382-600E9BAAA2D5}|Beast\\Beast.csproj|solutionrelative:beast\\classes\\dbhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925398A-9D4A-40B8-A382-600E9BAAA2D5}|Beast\\Beast.csproj|C:\\Users\\motas\\Desktop\\school 2023-2024\\5- programeren\\p3\\Beast opdracht\\Beast\\beast\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925398A-9D4A-40B8-A382-600E9BAAA2D5}|Beast\\Beast.csproj|solutionrelative:beast\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925398A-9D4A-40B8-A382-600E9BAAA2D5}|Beast\\Beast.csproj|C:\\Users\\motas\\Desktop\\school 2023-2024\\5- programeren\\p3\\Beast opdracht\\Beast\\beast\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3925398A-9D4A-40B8-A382-600E9BAAA2D5}|Beast\\Beast.csproj|solutionrelative:beast\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 41,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbHandler.cs",
+              "DocumentMoniker": "C:\\Users\\motas\\Desktop\\school 2023-2024\\5- programeren\\p3\\Beast opdracht\\Beast\\Beast\\Classes\\DbHandler.cs",
+              "RelativeDocumentMoniker": "Beast\\Classes\\DbHandler.cs",
+              "ToolTip": "C:\\Users\\motas\\Desktop\\school 2023-2024\\5- programeren\\p3\\Beast opdracht\\Beast\\Beast\\Classes\\DbHandler.cs",
+              "RelativeToolTip": "Beast\\Classes\\DbHandler.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T11:24:49.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\motas\\Desktop\\school 2023-2024\\5- programeren\\p3\\Beast opdracht\\Beast\\Beast\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Beast\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\motas\\Desktop\\school 2023-2024\\5- programeren\\p3\\Beast opdracht\\Beast\\Beast\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Beast\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T11:44:25.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\motas\\Desktop\\school 2023-2024\\5- programeren\\p3\\Beast opdracht\\Beast\\Beast\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Beast\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\motas\\Desktop\\school 2023-2024\\5- programeren\\p3\\Beast opdracht\\Beast\\Beast\\MainWindow.xaml",
+              "RelativeToolTip": "Beast\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-09T13:41:40.395Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
